@@ -9,26 +9,6 @@ Each investigation is based on publicly available technical reports, security re
 
 The goal is to organize technical evidence in a structured and useful format for malware analysis and threat intelligence research.
 
-## 📂 Repository Structure
-
-```text
-Cyber-Investigations/
-│
-├── Malware/
-│   ├── CaddyWiper/
-│   ├── Mirai/
-│   └── ...
-│
-├── Threat-Actors/
-│   ├── Sandworm/
-│   ├── APT28/
-│   └── ...
-│
-└── Campaigns/
-    ├── Campaign-Name/
-    └── ...
-```
-
 ## 🧬 Malware Investigations
 
 Each malware investigation may contain:
