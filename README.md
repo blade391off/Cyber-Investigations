@@ -111,7 +111,7 @@ The information is provided to help researchers understand and detect cyber thre
 
 **blade391off**
 
-Cybersecurity and analyst
+Cybersecurity and malware analyst
 
 ---
 
